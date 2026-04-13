@@ -45,4 +45,4 @@ Bu proje [MIT](https://choosealicense.com/licenses/mit/) lisansı altındadır.
 ---
 
 ### Hazırlayan:
-[Batın]
+İhsan
